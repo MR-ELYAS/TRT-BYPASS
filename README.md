@@ -10,6 +10,6 @@ cd TRT-BYPASS
 
 git pull
 
-python fucker.py
+python trt.py
 
 ```
